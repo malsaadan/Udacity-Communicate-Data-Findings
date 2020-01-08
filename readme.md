@@ -4,7 +4,7 @@
 
 ## Dataset: Ford GoBike System
 
-<div>   
+
     The dataset contains 192082 bike trips that happended in January 2019. There are 18 Features that describe each trip in the following:
 
     14 Features were provided in the dataset:
@@ -30,11 +30,9 @@
         Start hour in 12-hours: The trip's starting hour in 12-hours format
         Duration in hours: Total trip's duration in the unit of time minutes
         Distance in miles: Trip's distance in the unit of miles. 
-</div>
 
 
 ## Summary of Findings
-<div>
     1. Bike trip trends and the biker types: 
         1.1. Subscriber: this type's usage demands increase on the weekdays (specially on Thursday) on 8 am and 5 pm.
         1.2. Customer: this type's usage demands increase on the weekend (Saturday) between 8 am and 6 pm.
@@ -50,20 +48,15 @@
        3.1. 90.5% of all subscribers are subscribed to bike share for all membership.
        3.2. 9.5% of all subscribers are not members of bike share for all.
        This suggests that 9.5% of subscribers are at the age of 18 and residents of Bay Arena.
-</div>
 
 ## Key Insights for Presentation
-<div>
+
     1. Bike trip trends in unit of time and day
     2. Hourly usage during the weekday for customers and subscribers
-</div>
 
 ## References
-<div>
     
     “Bay Wheels,” Wikipedia, 12-Nov-2019. [Online]. Available: https://en.wikipedia.org/wiki/Bay_Wheels. [Accessed: 05-Jan-2020].
     Lyft, Inc, “System Data: Bay Wheels,” Lyft. [Online]. Available: https://www.lyft.com/bikes/bay-wheels/system-data. [Accessed: 05-Jan-2020].
     “8.1. datetime - Basic date and time types¶,” 8.1. datetime - Basic date and time types - Python 3.4.10 documentation. [Online]. Available: https://docs.python.org/3.4/library/datetime.html?highlight=weekday. [Accessed: 05-Jan-2020].
     262588213843476, “Calculate distance between latitude longitude pairs with Python,” Gist. [Online]. Available: https://gist.github.com/rochacbruno/2883505. [Accessed: 06-Jan-2020].
-
-</div>
